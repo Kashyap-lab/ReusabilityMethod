@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55be7dd0-d12c-4f3f-9e44-05b8583827de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XcAkdWIFlXln1OrVdeEFA5QtyX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Webexercise" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kash\IdeaProjects\ReusabilityMethod\src\test\java\Webexercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Webexercise">
+    <configuration name="Webexercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReusabilityMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Webexercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Webexercise" />
+      <option name="MAIN_CLASS_NAME" value="Webexercise.Webexercise" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Webexercise.Asda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReusabilityMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Webexercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Webexercise" />
+      <option name="MAIN_CLASS_NAME" value="Webexercise.Webexercise" />
+      <option name="METHOD_NAME" value="Asda" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Webexercise.AsdaWebRegisterSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReusabilityMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Webexercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Webexercise" />
+      <option name="MAIN_CLASS_NAME" value="Webexercise.Webexercise" />
+      <option name="METHOD_NAME" value="AsdaWebRegisterSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Webexercise.MockPlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReusabilityMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Webexercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Webexercise" />
+      <option name="MAIN_CLASS_NAME" value="Webexercise.Webexercise" />
+      <option name="METHOD_NAME" value="MockPlus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Webexercise.UserShouldAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ReusabilityMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Webexercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Webexercise" />
+      <option name="MAIN_CLASS_NAME" value="Webexercise.Webexercise" />
+      <option name="METHOD_NAME" value="UserShouldAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Webexercise" />
+        <item itemvalue="JUnit.Webexercise.UserShouldAbleToRegisterSuccessfully" />
+        <item itemvalue="JUnit.Webexercise.MockPlus" />
+        <item itemvalue="JUnit.Webexercise.Asda" />
+        <item itemvalue="JUnit.Webexercise.AsdaWebRegisterSuccess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55be7dd0-d12c-4f3f-9e44-05b8583827de" name="Default Changelist" comment="" />
+      <created>1581335152131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581335152131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="261" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581340245306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="261" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1581340245306" />
+    <state width="1322" height="187" key="GridCell.Tab.0.bottom" timestamp="1581512271861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581512271861" />
+    <state width="1322" height="187" key="GridCell.Tab.0.center" timestamp="1581512271861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581512271861" />
+    <state width="1322" height="187" key="GridCell.Tab.0.left" timestamp="1581512271860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581512271860" />
+    <state width="1322" height="187" key="GridCell.Tab.0.right" timestamp="1581512271861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581512271861" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1581335607282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581335607282" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1581507570038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581507570038" />
+    <state x="380" y="96" width="606" height="536" key="find.popup" timestamp="1581395315400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="96" width="606" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581395315400" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1581340326671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1581340326671" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1581359072307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581359072307" />
+  </component>
+</project>
